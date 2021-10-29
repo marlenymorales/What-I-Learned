@@ -1,0 +1,18 @@
+body{
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 10px solid cadetblue;
+    padding: 10% 10% 10% 10%;
+    margin: 5% 5% 5% 5%;
+}
+
+.Wrapper {
+    font-size: smaller;
+    font-style: italic;
+}
+
+#id {
+    color: coral;
+}
+
+
